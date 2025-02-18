@@ -9,3 +9,11 @@ student6@hccs.edu,Student6,59,43308,Female
 student7@hccs.edu,Student7,50,93337,Female
 student8@hccs.edu,Student8,41,54519,Male
 student9@hccs.edu,Student9,45,32149,Male
+
+
+Email,Name,Age,Salary,Gender
+john.doe@student.hccs.edu,John Doe,30,55000,Male
+jane.smith@student.hccs.edu,Jane Smith,28,60000,Female
+alex.johnson@student.hccs.edu,Alex Johnson,35,75000,Non-binary
+emily.white@student.hccs.edu,Emily White,40,80000,Female
+michael.brown@student.hccs.edu,Michael Brown,45,90000,Male
